@@ -28,4 +28,25 @@ _ReSharper*/
 *.vssscc
 $tf*/
 /dataset
+datasets_list.txt
+ipch/
+querypoints/
+queryset/
+result_reuse1.txt
+results/
+*.VC.db
+*.dsp
+*.opt
+*.plg
+*.psess
+*.sdf
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vsp
+sampleweight/
+trees/
+x64Release
+*.dsw
+
 
