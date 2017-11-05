@@ -33,19 +33,7 @@ ipch/
 querypoints/
 queryset/
 result_reuse1.txt
-*.VC.db
-*.dsp
-*.opt
-*.plg
-*.psess
-*.sdf
-*.sln
-*.vcxproj
-*.vcxproj.filters
-*.vsp
 sampleweight/
 trees/
 x64Release
-*.dsw
-
 
