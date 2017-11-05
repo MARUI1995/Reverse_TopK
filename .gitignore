@@ -33,7 +33,6 @@ ipch/
 querypoints/
 queryset/
 result_reuse1.txt
-results/
 *.VC.db
 *.dsp
 *.opt
